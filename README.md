@@ -50,3 +50,5 @@
 <img src="https://raw.githubusercontent.com/dropeesz/dropeesz/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Snake animation](https://github.com/dropeesz/dropeesz/blob/output/snake.svg)
