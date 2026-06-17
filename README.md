@@ -57,6 +57,10 @@
   <a href="https://discordapp.com/users/1469019850386178202" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/pedro-henrique-2708a12b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
