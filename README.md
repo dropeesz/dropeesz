@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   
-  <a href="https://w.app/v0uwdt" target="_blank">
+  <a href="[https://w.app/v0uwdt](https://api.whatsapp.com/send/?phone=5521979787229&text=Ol%C3%A1+Pedro%21&type=phone_number&app_absent=0)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
   
