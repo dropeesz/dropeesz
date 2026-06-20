@@ -143,11 +143,6 @@ One of my first professional projects, developed with WordPress and Elementor. T
 
 ###
 
-🌐 WordPress & Elementor Websites
-
-Development of institutional websites and landing pages focused on performance, SEO and conversion.
-
-
 </td>
 </tr>
 </table>
