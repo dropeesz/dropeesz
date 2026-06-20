@@ -1,5 +1,3 @@
-```
-
 <h2 align="left">Hi 👋! My name is Pedro Henrique and I'm a Software Development student and Junior Developer from Brazil 🇧🇷</h2>
 
 ###
@@ -249,4 +247,3 @@ One of my first professional projects, developed with WordPress and Elementor. T
 *"The best way to learn programming is by building real projects."*
 
 </div>
-```
