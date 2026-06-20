@@ -1,3 +1,4 @@
+```
 
 <h2 align="left">Hi 👋! My name is Pedro Henrique and I'm a Software Development student and Junior Developer from Brazil 🇧🇷</h2>
 
