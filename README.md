@@ -124,9 +124,25 @@ Web application developed with PHP and MySQL.
 <tr>
 <td width="100%">
 
+###🌐 <strong>Coolmeia Website</strong><br>
+One of my first professional projects, developed with WordPress and Elementor. The website combines a modern and responsive interface with a focus on usability and digital presence.
+
+🎨 Interface Design:
+<a href="https://www.instagram.com/joanatenorio.design/" target="_blank">
+  <img src="https://img.shields.io/badge/Joana_Tenório-Design-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<br>
+
+⚙️ Development & Implementation: Pedro Henrique
+
+<a href="https://agenciacoolmeia.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 ### 🌐 WordPress & Elementor Websites
 
 Development of institutional websites and landing pages focused on performance, SEO and conversion.
+
 
 </td>
 </tr>
