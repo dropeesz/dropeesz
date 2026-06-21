@@ -4,7 +4,7 @@
 
 <p align="left">
 🎓 Studying <strong>Analysis and Systems Development (ADS) at Unicesumar</strong><br>
-🎓 Studying <strong>Englhish</strong>at the Fluency learning institution<br>  
+🎓 Studying <strong>Englhish</strong> at the Fluency learning institution<br>  
 📚 Certified in Front-end, Back-end and Database Development by SENAI<br>
 🚀 Continuous learning through courses and practical projects<br>
 💻 Building Java, PHP and Web Development projects<br>
