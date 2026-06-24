@@ -113,28 +113,6 @@ Web application developed with PHP and MySQL.
 
 
 </td>
-
-<td width="50%">
-
-### My Portfolio
-
-Personal website developed from scratch with HTML, CSS, and Bootstrap 5 — dark theme, animated terminal, and everything that represents who I am as a developer.
-
-What you'll find there:
-
-
-✅ My practical projects
-
-✅ Complete technology stack
-
-✅ Developer and social media services
-
-✅ Responsive and modern interface
-
-🔗 github.com/dropeesz/site-web
-
-
-</td>
 </tr>
 </table>
 
